@@ -9,7 +9,7 @@
 		spamDelay: 250, // Fine-tune this delay if problems occur
 		joinChannels: ["#forsen"], // Only these channels will be joined
 		trigger: "<message>", // Only this message will work as a trigger
-		authorizedUsers: [] // These people can actually use the "bot"
+		authorizedUsers: [], // These people can actually use the "bot"
 		clients: [
 			{
 				name: "account1",
