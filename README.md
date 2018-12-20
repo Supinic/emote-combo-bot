@@ -1,5 +1,6 @@
 # emote-combo-bot
-A simple bot to use Twitch.tv combo emotes on multiple accounts quickly in succession.
+A (very!) simple bot to use Twitch.tv combo emotes on multiple accounts quickly in succession.
+The user has no real control over the bots, exiting the script (forcefully) will terminate the IRC connections.
 
 # Requirements
 Node.JS version >= 8
