@@ -1,5 +1,8 @@
 # emote-combo-bot
-A simple bot to use Twitch.tv combo emotes on multiple accounts quickly in succession
+A simple bot to use Twitch.tv combo emotes on multiple accounts quickly in succession.
+
+# Requirements
+Node.JS version >= 8
 
 # Config
 Set up your accounts, trigger message, response messages and authorized users in the config file within `emote-combo-bot.js`. Comments are provided.
